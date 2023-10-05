@@ -1,4 +1,15 @@
-# My Leetcode solutions
+# Leetcode solutions
 
-Solutions to LeetCode problems done by me.<br>
-You can take a look at the problems here: [Leetcode](https://leetcode.com/).
+Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/).<br>
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./python3/array/singleNumber.py)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./python3/array/containsDuplicate.py)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python](./python3/array/containsDuplicateII.py)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./python3/array/pascalsTriangle.py)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./python3/array/pascalsTriangleII.py)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./python3/array/missingNumber.py)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python3/array/moveZeroes.py)|Easy|
+
+
