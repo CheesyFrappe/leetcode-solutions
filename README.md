@@ -1,4 +1,4 @@
-# Data structures and algorithms
+# My Leetcode solutions
 
-Data structure and algorithm questions solutions by me. 
-You can take a look at the problems here: [HackerRank](https://www.hackerrank.com/), [Leetcode](https://leetcode.com/).
+Solutions to LeetCode problems;
+You can take a look at the problems here: [Leetcode](https://leetcode.com/).
