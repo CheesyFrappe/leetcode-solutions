@@ -11,5 +11,7 @@ Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/).
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./python3/array/pascalsTriangleII.py)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./python3/array/missingNumber.py)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python3/array/moveZeroes.py)|Easy|
+|283|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./python3/array/intersectionOfTwoArrays.py)|Easy|
+|283|[Integer Break](https://leetcode.com/problems/integer-break/) | [Python](./python3/dynamic programming/integerBreak.py)|Medium|
 
 
