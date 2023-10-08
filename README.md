@@ -13,4 +13,6 @@ Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/).
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python3/array/moveZeroes.py)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./python3/array/intersectionOfTwoArrays.py)|Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | [Python](./python3/dynamic%20programming/integerBreak.py)|Medium|
-
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./python3/array/intersectionOfTwoArraysII.py)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](./python3/array/thirdMaximumNumber.py)|Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](./python3/array/findAllNumbersDisappearedInArray.py)|Easy|
