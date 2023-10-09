@@ -16,3 +16,4 @@ Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/).
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./python3/array/intersectionOfTwoArraysII.py)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](./python3/array/thirdMaximumNumber.py)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](./python3/array/findAllNumbersDisappearedInArray.py)|Easy|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python3/array/findFirstAndLastPosition.py)|Medium|
