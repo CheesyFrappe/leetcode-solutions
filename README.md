@@ -20,3 +20,5 @@ Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/).
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python3/array/topKFrequentElements.py)|Medium|
 |238|[Product of Arrat Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python3/array/productOfArrayExceptSelf.py)|Medium|
 |1929|[Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./python3/array/concatenationOfArray.py)|Easy|
+|1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Python](./python3/array/substringsOfSizeThree.py)|Easy|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./python3/array/maximumAverageSubarrayI.py)|Easy|
