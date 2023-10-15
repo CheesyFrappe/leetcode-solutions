@@ -22,3 +22,4 @@ Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/).
 |1929|[Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./python3/array/concatenationOfArray.py)|Easy|
 |1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Python](./python3/array/substringsOfSizeThree.py)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./python3/array/maximumAverageSubarrayI.py)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python3/array/bestTimeToBuyAndSellStock.py)|Easy|
