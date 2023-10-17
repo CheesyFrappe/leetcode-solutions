@@ -24,3 +24,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Python](./python3/array/substringsOfSizeThree.py)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./python3/array/maximumAverageSubarrayI.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python3/array/bestTimeToBuyAndSellStock.py)|Easy|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](./python3/sliding%20window/longestSubstringWithoutRepeatingChars.py)|Medium|
