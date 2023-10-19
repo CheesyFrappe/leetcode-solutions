@@ -25,3 +25,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](./python3/array/maximumAverageSubarrayI.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python3/array/bestTimeToBuyAndSellStock.py)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](./python3/sliding%20window/longestSubstringWithoutRepeatingChars.py)|Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python3/two%20pointers/validPalindrome.py)|Easy|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [Python](./python3/sliding%20window/longestRepeatingCharReplacement.py)|Medium|
