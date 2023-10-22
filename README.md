@@ -27,3 +27,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](./python3/sliding%20window/longestSubstringWithoutRepeatingChars.py)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python3/two%20pointers/validPalindrome.py)|Easy|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [Python](./python3/sliding%20window/longestRepeatingCharReplacement.py)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Python](./python3/hash%20map/groupAnagrams.py)|Medium|
