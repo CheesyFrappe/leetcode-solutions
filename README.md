@@ -32,3 +32,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Python](./python3/array/mergeSortedArray.py)|Easy| 
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python3/stack/validParentheses.py)|Easy| 
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Python](./python3/stack/minStack.py)|Medium| 
+|150|[Min Stack](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [Python](./python3/stack/evalRPN.py)|Medium| 
