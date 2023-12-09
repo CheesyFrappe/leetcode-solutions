@@ -33,3 +33,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./python3/stack/validParentheses.py)|Easy| 
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Python](./python3/stack/minStack.py)|Medium| 
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [Python](./python3/stack/evalRPN.py)|Medium| 
+|255|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python](./python3/stack/implementStackUsingQueues.py)|Easy| 
