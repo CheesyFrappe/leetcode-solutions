@@ -35,4 +35,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [Python](./python3/stack/evalRPN.py)|Medium| 
 |255|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Python](./python3/stack/implementStackUsingQueues.py)|Easy| 
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./python3/stack/generateParentheses.py)|Medium| 
-|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Python](./python3/stack/nextGreaterElementI.py)|Easy| 
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Python](./python3/stack/nextGreaterElementI.py)|Easy|  
