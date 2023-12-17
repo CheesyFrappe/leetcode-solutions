@@ -39,3 +39,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Python](./python3/stack/FinalPricesWithDiscount.py)|Easy|  
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Python](./python3/tree/inorderTraversal.py)|Easy|  
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](./python3/tree/preorderTraversal.py)|Easy|  
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](./python3/tree/postorderTraversal.py)|Easy|  
