@@ -41,3 +41,6 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](./python3/tree/preorderTraversal.py)|Easy|  
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](./python3/tree/postorderTraversal.py)|Easy|  
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [Python](./python3/array/maxProductDifference.py)|Easy|  
+|100|[Same Tree](https://leetcode.com/problems/same-tree) | [Python](./python3/tree/sameTree.py)|Easy|  
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./python3/tree/levelOrderTraversal.py)|Medium|  
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python3/tree/maxDepthofBinaryTree.py)|Medium|  
