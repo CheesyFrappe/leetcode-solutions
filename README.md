@@ -43,4 +43,6 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [Python](./python3/array/maxProductDifference.py)|Easy|  
 |100|[Same Tree](https://leetcode.com/problems/same-tree) | [Python](./python3/tree/sameTree.py)|Easy|  
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./python3/tree/levelOrderTraversal.py)|Medium|  
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python3/tree/maxDepthofBinaryTree.py)|Medium|  
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./python3/tree/maxDepthofBinaryTree.py)|Easy|  
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python](./python3/tree/symmetricTree.py)|Easy|  
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Python](./python3/tree/invertBinaryTree.py)|Easy|  
