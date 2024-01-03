@@ -49,3 +49,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Python](./python3/tree/convertSortedArrToTree.py)|Easy|  
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./python3/string/reverseString.py)|Easy| 
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Python](./python3/math/palindromeNumber.py)|Easy| 
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Python](./python3/tree/countCompleteTreeNodes.py)|Easy| 
