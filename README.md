@@ -50,5 +50,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Python](./python3/string/reverseString.py)|Easy| 
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Python](./python3/math/palindromeNumber.py)|Easy| 
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Python](./python3/tree/countCompleteTreeNodes.py)|Easy| 
-
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Python](./python3/tree/binaryTreePaths.py)|Easy| 
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./python3/linked%20list/mergeTwoSortedLists.py)|Easy| 
