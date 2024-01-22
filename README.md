@@ -54,3 +54,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./python3/linked%20list/mergeTwoSortedLists.py)|Easy| 
 |112|[Path Sum](https://leetcode.com/problems/path-sum) | [Python](./python3/tree/pathSum.py)|Easy| 
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | [Python](./python3/tree/sumOfLeftLeaves.py)|Easy| 
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Python](./python3/array/setMismatch.py)|Easy| 
