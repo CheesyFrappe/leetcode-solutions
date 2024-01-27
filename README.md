@@ -57,3 +57,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Python](./python3/array/setMismatch.py)|Easy| 
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python3/string/defangeIPAddress.py)|Easy| 
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python](./python3/tree/findModeinBST.py)|Easy| 
+|530|[Minimum Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python](./python3/tree/minAbsoluteDifference.py)|Easy| 
