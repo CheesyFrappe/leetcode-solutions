@@ -58,3 +58,6 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python3/string/defangeIPAddress.py)|Easy| 
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python](./python3/tree/findModeinBST.py)|Easy| 
 |530|[Minimum Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python](./python3/tree/minAbsoluteDifference.py)|Easy| 
+|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Python](./python3/tree/findACorrespondingNode.py)|Easy| 
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python3/tree/diameterOfBinaryTree.py)|Easy| 
+
