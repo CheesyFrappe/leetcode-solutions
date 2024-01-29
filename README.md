@@ -60,4 +60,6 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |530|[Minimum Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python](./python3/tree/minAbsoluteDifference.py)|Easy| 
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Python](./python3/tree/findACorrespondingNode.py)|Easy| 
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python3/tree/diameterOfBinaryTree.py)|Easy| 
-
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python3/tree/mergeTwoBinaryTrees.py)|Easy| 
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./python3/tree/searchInBST.py)|Easy| 
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./python3/queue/implementQueueUsingStacks.py)|Easy| 
