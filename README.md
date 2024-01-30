@@ -63,3 +63,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python3/tree/mergeTwoBinaryTrees.py)|Easy| 
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./python3/tree/searchInBST.py)|Easy| 
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./python3/queue/implementQueueUsingStacks.py)|Easy| 
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python](./python3/tree/avgOfLevelsInTree.py)|Easy| 
