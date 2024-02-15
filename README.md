@@ -69,3 +69,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python](./python3/graph/findCenterOfStarGraph.py)|Easy|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Python](./python3/graph/findIfPathExists.py)|Easy|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](./python3/graph/findTheTownJudge.py)|Easy|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph) | [Python](./python3/graph/cloneGraph.py)|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule) | [Python](./python3/graph/courseSchedule.py)|Easy|
