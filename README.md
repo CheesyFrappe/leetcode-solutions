@@ -72,3 +72,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph) | [Python](./python3/graph/cloneGraph.py)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule) | [Python](./python3/graph/courseSchedule.py)|Easy|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [Python](./python3/graph/pacificAtlantic.py)|Easy|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python](./python3/graph/numberOfIslands.py)|Medium|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Python](./python3/graph/longestConsecutiveSequence.py)|Medium|
