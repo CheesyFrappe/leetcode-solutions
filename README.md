@@ -77,3 +77,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [Python](./python3/graph/courseScheduleII.py)|Medium|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [Python](./python3/graph/allPaths.py)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [Python](./python3/graph/minNumberOfNodes.py)|Medium|
+|2642|[Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Python](./python3/graph/designGraph.py)|Hard|
