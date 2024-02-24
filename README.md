@@ -1,7 +1,7 @@
 # Leetcode solutions
 
 
-Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/).<br>
+Solutions to LeetCode problems done by [me](https://leetcode.com/CheesyFrappe/). All of the problems are done in Python3. <br>
 You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1ynFoTR0QUidBiOjPXEDPs7hjLxxoR8kRZ3GejIKJf7E/edit?usp=sharing) that I take notes for each problem.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CheesyFrappe?theme=unicorn&font=Roboto&ext=heatmap)
