@@ -83,3 +83,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [Python](./python3/graph/allPaths.py)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [Python](./python3/graph/minNumberOfNodes.py)|Medium|
 |2642|[Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Python](./python3/graph/designGraph.py)|Hard|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Python](./python3/array/shuffleTheArray.py)|Hard|
