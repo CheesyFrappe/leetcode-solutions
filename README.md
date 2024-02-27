@@ -85,4 +85,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |2642|[Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Python](./python3/graph/designGraph.py)|Hard|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [Python](./python3/array/shuffleTheArray.py)|Hard|
 |1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) | [Python](./python3/graph/sortItemsByGroups.py)|Hard|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](./python3/hash map/romanToInteger.py)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](./python3/hash%20map/romanToInteger.py)|Easy|
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](./python3/linked%20list/convBinaryNum.py)|Easy|
