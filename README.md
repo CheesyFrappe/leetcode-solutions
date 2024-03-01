@@ -89,3 +89,4 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](./python3/linked%20list/convBinaryNum.py)|Easy|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | [Python](./python3/tree/findBottomLeftTree.py)|Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [Python](./python3/tree/evenOddTree.py)|Medium|
+|2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | [Python](./python3/string/maxOddBinaryNumber.py)|Easy|
