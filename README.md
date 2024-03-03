@@ -90,3 +90,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | [Python](./python3/tree/findBottomLeftTree.py)|Easy|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [Python](./python3/tree/evenOddTree.py)|Medium|
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | [Python](./python3/string/maxOddBinaryNumber.py)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Python](./python3/array/squaresOfArr.py)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python](./python3/linked%20list/removeNthFromList.py)|Easy|
