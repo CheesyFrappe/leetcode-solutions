@@ -92,3 +92,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |2864|[Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | [Python](./python3/string/maxOddBinaryNumber.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Python](./python3/array/squaresOfArr.py)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python](./python3/linked%20list/removeNthFromList.py)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Python](./python3/linked%20list/middleOfTheLinkedList.py)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Python](./python3/linked%20list/removeDupelicatesFromList.py)|Easy|
