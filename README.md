@@ -94,3 +94,5 @@ You can take a look at my [cheat sheet](https://docs.google.com/spreadsheets/d/1
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python](./python3/linked%20list/removeNthFromList.py)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Python](./python3/linked%20list/middleOfTheLinkedList.py)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Python](./python3/linked%20list/removeDupelicatesFromList.py)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python](./python3/linked%20list/linkedListCycle.py)|Easy|
+|3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Python](./python3/linked%20list/countElementsMaxFreq.py)|Easy|
